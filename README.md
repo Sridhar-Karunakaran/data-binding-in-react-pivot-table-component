@@ -1,6 +1,5 @@
 # 📊 Data Binding in React Pivot Table Component
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![React](https://img.shields.io/badge/React-18.0-61DAFB.svg)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6.svg)](https://www.typescriptlang.org/)
 [![Syncfusion EJ2](https://img.shields.io/badge/Syncfusion%20EJ2-Latest-0078D4.svg)](https://www.syncfusion.com/)
@@ -173,7 +172,7 @@ This project is licensed under the **Syncfusion Community License**. See [Syncfu
 - [Syncfusion React Documentation](https://www.syncfusion.com/react-components)
 - [React Official Documentation](https://react.dev)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/)
-- [Pivot Table Component Guide](https://www.syncfusion.com/react-components/react-pivot-table)
+- [Pivot Table Component Guide](https://ej2.syncfusion.com/react/documentation/pivotview/getting-started)
 
 ## 🆘 Support
 
